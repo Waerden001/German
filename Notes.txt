@@ -1,0 +1,37 @@
+冠词
+
+1. Gender
+2. Cases
+3. Number
+
+动词
+
+1. 人称
+2. 时态
+3. 特殊规则
+
+名词
+
+1. Gender
+2. Number
+3. Position（影响修饰它的词语）
+
+Multidimensional dictionaries
+
+1. 范畴 （名词， 动词， 介词）
+2. 性质（不同category 有不同的性质）
+	- 人称
+	- 时态
+	- 单复数
+	- 阴阳性
+	- 位置 功能
+	- 特殊搭配（比如某些介词后面强行要求第三格）
+
+目标：
+
+1. 找到一个标记了gender, number, cases, 人称变化的数据库，
+或者用Miga手动输入的Excel
+2. 建立关于正确combination的多维向量字典， 比如对于一个给定
+修饰词当被修饰是 阴阳性-格-单复数 的所有组合时 应该采用的形式
+或者人称-时态
+3. Combination rules: 什么时候用第几格
