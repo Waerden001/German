@@ -2,21 +2,21 @@
 
 P106
 
-die Verabredung 约定
+Die Verabredung 约定
 
-eine Verabredung
+Eine Verabredung
 
-\-Wie geht es dir & Ihnen? Wie geht’s?
+- Wie geht es dir & Ihnen? Wie geht’s?
 
-\-Danke gut. 很好
+- Danke gut. 很好
 
-\-Nicht schlecht. 不错
+- Nicht schlecht. 不错
 
-\-Es geht. 还行
+- Es geht. 还行
 
 Besprechen 讨论，谈论
 
-eine Besprechung haben
+Eine Besprechung haben
 
 Wir müssen meine Hausarbeit besprechen.
 
@@ -26,15 +26,15 @@ Kannst du Deutsch sprechen?
 
 Ein bisschen. /Ein bisschen Zeit. 一点时间
 
-\-Heute/Morgen geht es nicht.
+- Heute/Morgen geht es nicht.
 
-\-Bis morgen.
+- Bis morgen.
 
-\-Bis Freitag.
+- Bis Freitag.
 
-\-Wie viel Uhr ist es jetzt?
+- Wie viel Uhr ist es jetzt?
 
-\-Wie spät ist es?
+- Wie spät ist es?
 
 P110-111
 
@@ -82,37 +82,37 @@ P110-111
 
 提问题 Fragen ： Wann macht Bernd/du was？
 
-\-Wann frühstückst du? 你什么时间吃早饭
+- Wann frühstückst du? 你什么时间吃早饭
 
-\-Um wie viel Uhr isst du zu Mittag? 你什么时间去吃午饭？
+- Um wie viel Uhr isst du zu Mittag? 你什么时间去吃午饭？
 
-\-Wann fährt Bernd zur Arbeit? Bernd 什么时间去上班？
+- Wann fährt Bernd zur Arbeit? Bernd 什么时间去上班？
 
-\-Wann ist Bernd im Büro? Bernd 什么时间在办公室？
+- Wann ist Bernd im Büro? Bernd 什么时间在办公室？
 
 答 Antworten ：
 
-\-Um sieben Uhr frühstückt er.
+- Um sieben Uhr frühstückt er.
 
-\-Um halb acht fährt er zur Arbeit.
+- Um halb acht fährt er zur Arbeit.
 
-\-Um halb eins. 12点半
+- Um halb eins. 12点半
 
-\-Ich gehe ins Bett um 11 Uhr.
+- Ich gehe ins Bett um 11 Uhr.
 
-\-Ich bin um 5 Uhr zu Hause.
+- Ich bin um 5 Uhr zu Hause.
 
-\-Wir machen um halb zehn eine Pause.
+- Wir machen um halb zehn eine Pause.
 
-zu jdm sagen
+Zu jdm sagen
 
-zu schnell 太快
+Zu schnell 太快
 
 Geduld haben 有耐心
 
-ruhig 安静的
+Ruhig 安静的
 
-sind sein seien
+Sind Sein Seien
 
 **语法 Grammatik** **命令式：**
 
@@ -122,11 +122,11 @@ sind sein seien
 
 a. 动词原形 + Sie + ...... \!
 
-„ Kommen Sie um 5 zu mir \!“
+"Kommen Sie um 5 zu mir \"
 
 Fahren Sie mit dem Auto zum Supermarkt \! zum=zu dem
 
-b. 句子中可以加副词“bitte’’, 它可放在句首，句中或句末
+b. 句子中可以加副词"bitte", 它可放在句首，句中或句末
 
 Bitte kaufen Sie am Wochenende im Supermarkt \!
 
@@ -168,13 +168,13 @@ Nehmen Sie bitte Platz. 请坐
 15) die Grammatik zu Hause wiederholen 在家里复习语法 --- Wiederholen Sie bitte
     die Grammatik zu Hause\!
 
-etwas. auswendig lernen 记住，背诵
+Etwas. Auswendig lernen 记住，背诵
 
-schließen 合上
+Schließen 合上
 
 **B. du的命令式 Informell p112**
 
-du 称的命令式最为复杂，我们将它分为四种：
+Du 称的命令式最为复杂，我们将它分为四种：
 
 （1）弱变动词和不要求现在时变音、换音的强变动词。 动词词干+……动词变位的-e可要可不要
 
@@ -223,11 +223,11 @@ lesen, sehen, sprechen，nehmen
 
 S.113 Ü1 —对 Ihr 命令式
 
-möchten schlank werden 想变苗条
+Möchten schlank werden 想变苗条
 
-einen Vorschlag machen 提出建议
+Einen Vorschlag machen 提出建议
 
-der Vorschlag, die Vorschläge 建议
+Der Vorschlag, die Vorschläge 建议
 
 1)  viel Gemüse essen 多吃蔬菜 ---- Esst viel Gemüse\!
 
@@ -308,7 +308,7 @@ p113 Ü2
 
 p114 Ü4
 
-1)  1\) an die Tafel gehen 到黑板旁边去
+1) an die Tafel gehen 到黑板旁边去
 
 2)  vorsichtig sein 当心
 
